@@ -19,7 +19,7 @@
   * Blog post and comments due: October 6th
 
 *Week 6, October 14th:* Social Networking and Collab Visualization (first hour) and Project proposal presentations and discussion
-  * No Blog post due this week. Project proposals are due. 
+  * Project proposals are due October 16th. 
 
 ### Part 2: Applications of CSCW 
 Note: the format for these weeks will include graduate student presentations plus moderated discussions on various topics. 
