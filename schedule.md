@@ -30,8 +30,8 @@ Note: the format for these weeks will include graduate student presentations plu
 *Week 8, October 28th:* Workshop #2 (Topic TBD, Grad Student Leaders TBD)
   * Blog post and comments due: October 27th
 
-*Week 9, November 4th:* No class this week in lieu of project group meetings with instructor. 
-  * No deliverable to be handed in, but an oral update on project progress (e.g., demo or early evaluation results could be discusssed).  
+*Week 9, November 4th:* Project presentations (update).  
+  * No deliverable to be handed in, but an oral update on project progress is due in class (e.g., demo or early evaluation results could be discusssed).  
 
 *Week 10, November 11th:*  Reading Break
   * Interim project reports are due November 13th
