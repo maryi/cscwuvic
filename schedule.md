@@ -8,7 +8,7 @@
 
 *Week 2, September 16th:* Theories: Distance Matters, Awareness and Distributed Cognition
   * Blog post and comments due on required readings: September 15th
-  * Required readings:  
+  * Required readings (also posted on Slack for your convenience):  
      * [How to make distance work work, by Olson and Olson](http://interactions.acm.org/archive/view/march-april-2014/how-to-make-distance-work-work)
      * [Distributed Cognition](http://dl.acm.org/citation.cfm?id=353487) 
   * Optional readings: 
