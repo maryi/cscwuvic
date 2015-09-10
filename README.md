@@ -14,7 +14,7 @@ CSCW Course at the University of Victoria (Fall 2015)
       * CSC 485A: http://courses.seng.uvic.ca/courses/2015/fall/csc/485a 
       * SENG 435: http://courses.seng.uvic.ca/courses/2015/fall/seng/435 
       * CSC 586A: http://courses.seng.uvic.ca/courses/2015/fall/csc/586a 
-   * Wordpress site: https://cscwuvic2015.wordpress.com
-   * Slack team space for CSCW 2015: https://cscwuvic2015.slack.com
+   * Wordpress site: https://cscwuvic2015.wordpress.com (Access restricted to students registered in the class)
+   * Slack team space for CSCW 2015: https://cscwuvic2015.slack.com (Access restricted to students registered in the class)
    * Twitter: Follow @cscwuvic, Use the hashtag #cscwuvic
    
