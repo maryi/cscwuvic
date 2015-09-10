@@ -4,7 +4,8 @@
 
 *Week 1, September 9th:* Introduction:  [Course Mechanics](slides/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/course_introduction.pdf)
   * Mini-blog post due September 11th and first post on Slack (Hello world)
-  * Optional reading: https://www.interaction-design.org/encyclopedia/cscw_computer_supported_cooperative_work.html 
+  * Optional reading: 
+      * [CSCW - Computer Supported Cooperative Work by Jonathan Grudin and Steven Poltrock](https://www.interaction-design.org/encyclopedia/cscw_computer_supported_cooperative_work.html) (This is a good summary of CSCW)
 
 *Week 2, September 16th:* Theories: Distance Matters, Awareness and Distributed Cognition
   * Blog post and comments due on required readings: September 15th
@@ -13,8 +14,8 @@
      * [How to make distance work work, by Olson and Olson](http://interactions.acm.org/archive/view/march-april-2014/how-to-make-distance-work-work)
      * [Distributed Cognition](http://dl.acm.org/citation.cfm?id=353487) 
   * Optional readings: 
-     * Distance Matters (To be added)
-     * Awareness (To be added)
+     * [Distance Matters by Olson and Olson](http://www.ics.uci.edu/~corps/phaseii/OlsonOlson-DistanceMatters-HCIJ.pdf)
+     * [A Descriptive Framework of Workspace Awareness for Real-Time Groupware, by Gutwin](http://www.hci.usask.ca/publications/2002/awareness-jcscw.pdf)
   
 *Week 3, September 23rd:* Techniques: Collaborative Technologies,  Social Media and Collaborative Visualizations. 
   * Blog post and comments due: September 22nd
