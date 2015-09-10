@@ -1,12 +1,19 @@
-## Tentative Schedule and Course Slides
+## Tentative Schedule, Course Slides and Readings
 
 ### Part 1: Foundations, Background and Project Proposals
 
 *Week 1, September 9th:* Introduction: Course Mechanics [Course Mechanics](slides/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/course_introduction.pdf)
   * Mini-blog post due September 11th and first post on Slack (Hello world)
+  * Optional readings:  To be added.
 
 *Week 2, September 16th:* Theories: Distance Matters, Awareness and Distributed Cognition
-  * Blog post and comments due: September 15th
+  * Blog post and comments due on required readings: September 15th
+  * Required readings:  
+     * [How to make distance work work, by Olson and Olson](http://interactions.acm.org/archive/view/march-april-2014/how-to-make-distance-work-work)
+     * [Distributed Cognition](http://dl.acm.org/citation.cfm?id=353487) 
+  * Optional readings: 
+     * Distance Matters (To be added)
+     * Awareness (To be added)
   
 *Week 3, September 23rd:* Techniques: Collaborative Technologies,  Social Media and Collaborative Visualizations. 
   * Blog post and comments due: September 22nd
