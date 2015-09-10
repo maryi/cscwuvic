@@ -1,9 +1,9 @@
-## Tentative Schedule
+## Tentative Schedule and Course Slides
 
 ### Part 1: Foundations, Background and Project Proposals
 
-*Week 1, September 9th:* Introduction: Why CSCW and History of CSCW
-  * Mini-blog post due September 11th and first post on Slack 
+*Week 1, September 9th:* Introduction: Course Mechanics [Course Mechanics](slides/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/course_introduction.pdf)
+  * Mini-blog post due September 11th and first post on Slack (Hello world)
 
 *Week 2, September 16th:* Theories: Distance Matters, Awareness and Distributed Cognition
   * Blog post and comments due: September 15th
