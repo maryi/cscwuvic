@@ -2,7 +2,7 @@
 
 ### Part 1: Foundations, Background and Project Proposals
 
-*Week 1, September 9th:* Introduction: Course Mechanics [Course Mechanics](slides/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/course_introduction.pdf)
+*Week 1, September 9th:* Introduction:  [Course Mechanics](slides/course_mechanics.pdf) and [Why CSCW and History of CSCW](slides/course_introduction.pdf)
   * Mini-blog post due September 11th and first post on Slack (Hello world)
   * Optional readings:  To be added.
 
