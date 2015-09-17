@@ -18,13 +18,30 @@
      * [A Descriptive Framework of Workspace Awareness for Real-Time Groupware, by Gutwin](http://www.hci.usask.ca/publications/2002/awareness-jcscw.pdf)
   
 *Week 3, September 23rd:* Techniques: Collaborative Technologies,  Social Media and Collaborative Visualizations. 
-  * Blog post and comments due: September 22nd
+  * Blog post and comments due on required readings/videos: September 22nd
+  * Required readings: 
+     * [What is Web 2.0 by Tim O'Reilly](http://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
+     * [Lessons from Ancient Media by Tom Standage (Video)](https://www.youtube.com/watch?v=ixsridS3qVs)
+     * [History of Wikipedia by Jimmy Wales (Video)](https://www.youtube.com/watch?v=WQR0gx0QBZ4)
+     * [The new open source economics by Yochai Benkler (Video)](http://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics?language=en)
+     * [Collaborative visualization by Isenberg et al.](http://vis.cs.ucdavis.edu/papers/Isenberg_2011_CVD.pdf)
 
 *Week 4, September 30th:* Evaluation: Frameworks and Empirical methods in CSCW  
   * Blog post and comments due: September 29th
+  * Required readings:
+     * [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf) 
+     * [Methodology Matters by McGrath](http://d.ucsd.edu/class/grad-IxD/2013/private/readings/mcgrath_methodology_matters.pdf)
+     * [From the Matrix to a Model of Coordinated Action by Lee et al.](https://depts.washington.edu/csclab/wordpress/wp-content/uploads/CSCW2015_MoCA_preprint.pdf) 
+  * Optional reading: 
+     * [Evaluating CSCW: Models and Frameworks by Neal et al.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.1754&rep=rep1&type=pdf)
 
 *Week 5, October 7th:* Communities: Social Networking, Knowledge Communities and Communities of Practice.  
   * Blog post and comments due: October 6th
+  * Required readings: 
+     * [What is Ontology by Gruber (one page)](http://www-ksl.stanford.edu/kst/what-is-an-ontology.html)
+     * [Ontologies are overrated by Shirky](http://www.shirky.com/writings/ontology_overrated.html) 
+     * To Classify is Human by Bowker and Star (see the Slack Channel for this week about how to read this paper)
+     * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
 
 *Week 6, October 14th:* Project proposal presentations and discussion
   * Project written proposals are due October 16th. 
