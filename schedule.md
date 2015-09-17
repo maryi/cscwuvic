@@ -25,6 +25,8 @@
      * [History of Wikipedia by Jimmy Wales (Video)](https://www.youtube.com/watch?v=WQR0gx0QBZ4)
      * [The new open source economics by Yochai Benkler (Video)](http://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics?language=en)
      * [Collaborative visualization by Isenberg et al.](http://vis.cs.ucdavis.edu/papers/Isenberg_2011_CVD.pdf)
+  * Optional reading: 
+     * [Participatory cultures in education by Jenkins et al.](https://www.macfound.org/media/article_pdfs/JENKINS_WHITE_PAPER.PDF)
 
 *Week 4, September 30th:* Evaluation: Frameworks and Empirical methods in CSCW  
   * Blog post and comments due: September 29th
