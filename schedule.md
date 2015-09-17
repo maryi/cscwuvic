@@ -27,6 +27,7 @@
      * [Collaborative visualization by Isenberg et al.](http://vis.cs.ucdavis.edu/papers/Isenberg_2011_CVD.pdf)
   * Optional reading: 
      * [Participatory cultures in education by Jenkins et al.](https://www.macfound.org/media/article_pdfs/JENKINS_WHITE_PAPER.PDF)
+     * On Slack and Bots: http://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/ 
 
 *Week 4, September 30th:* Evaluation: Frameworks and Empirical methods in CSCW  
   * Blog post and comments due: September 29th
