@@ -11,6 +11,8 @@
    * [Distributed cognition](slides/Week 2/distributed_cognition.pdf)
    * Distance matters (to be posted)
    * Awareness (to be posted)
+
+## Not up to date, just navigate to the slides directory
    
 ## Week 3:
    * Administriva for Week 3  (to be posted)
