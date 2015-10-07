@@ -46,28 +46,28 @@
      * To Classify is Human by Bowker and Star (see the Slack Channel for this week about how to read this paper)
      * [Communities of Practice by Wenger et al.](http://wenger-trayner.com/introduction-to-communities-of-practice/)
 
-*Week 6, October 14th:* Project proposal presentations and discussion
+*Week 6, October 14th:* Project proposal presentations, feedback and discussion
   * Project written proposals are due October 16th. 
 
 ### Part 2: Applications of CSCW 
 Note: the format for these weeks will include graduate student presentations plus moderated discussions on student chosen topics. 
 
-*Week 7, October 21st:* Workshops #1 & #2 (Topics TBD, Grad Student Leaders TBD)
-  * Blog post due: October 23rd
+*Week 7, October 21st:* Workshop #1 (Topic: Collaborative Software Engineering, Moderated by Peggy Storey)
+  * Blog post due: October 23rd (Readings will be posted shortly)
 
-*Week 8, October 28th:* Workshops #3 & #4 (Topics TBD, Grad Student Leaders TBD)
+*Week 8, October 28th:* Workshop #2 (Topic TBD, Grad Student Leaders TBD)
   * Blog post due: October 30th
 
-*Week 9, November 4th:* Project presentations (update).  
-  * No deliverable to be handed in, but an oral update on project progress is due in class (e.g., demo or early evaluation results could be discussed). 
+*Week 9, November 4th:* Project update presentations.  
+  * No deliverable to be handed in, but an oral update on project progress is due in class (e.g., demo or early evaluation results could be discussed).  Moderated by Eirini. 
 
 *Week 10, November 11th:*  Reading Break
   * Interim project reports are due November 13th
  
-*Week 11, November 18th:* Workshops #5 & #6 (Topics TBD, Grad Student Leaders TBD)
+*Week 11, November 18th:* Workshop #3 (Topic TBD, Grad Student Leaders TBD)
   * Blog post due: November 20th
 
-*Week 12, November 25th:* Workshops #7 & #8 (Topics TBD, Grad Student Leaders TBD)
+*Week 12, November 25th:* Workshop #4 (Topic TBD, Grad Student Leaders TBD)
   * Blog post and comments due: November 27th
 
 *Week 13, December 3rd:* Project Presentations in-class
