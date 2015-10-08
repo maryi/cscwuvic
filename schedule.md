@@ -55,7 +55,10 @@ Note: the format for these weeks will include graduate student presentations plu
 *Week 7, October 21st:* Workshop #1 (Topic: Collaborative Software Engineering, Moderated by Peggy Storey)
   * Blog post due: October 23rd (Readings will be posted shortly)
 
-*Week 8, October 28th:* Workshop #2 (Topic TBD, Grad Student Leaders TBD)
+*Week 8, October 28th:* Workshop #2 
+  * Topic: Role of robots in CSCW
+  * Grad leaders: @sabjorn @mpaskevi @adithyar @shashank05april
+  * Undergrad helpers: @nigeldufty @emilypereira 
   * Blog post due: October 30th
 
 *Week 9, November 4th:* Project update presentations.  
@@ -64,10 +67,16 @@ Note: the format for these weeks will include graduate student presentations plu
 *Week 10, November 11th:*  Reading Break
   * Interim project reports are due November 13th
  
-*Week 11, November 18th:* Workshop #3 (Topic TBD, Grad Student Leaders TBD)
+*Week 11, November 18th:* Workshop #3  
+  * Topic: Games and CSCW  
+  * Grad leaders: @bernadette_perry @zhuolixiao @roshnij @ngoyal
+  * Undergrad helpers: @kush @krollans 
   * Blog post due: November 20th
 
-*Week 12, November 25th:* Workshop #4 (Topic TBD, Grad Student Leaders TBD)
+*Week 12, November 25th:* Workshop #4 
+  * Topic: Impact and ethics of Social Media 
+  * Grad leaders: @maryi  @arturo @kimberleegk @aliweb
+  * Undergrad helpers: @sarah_warnock
   * Blog post and comments due: November 27th
 
 *Week 13, December 3rd:* Project Presentations in-class
