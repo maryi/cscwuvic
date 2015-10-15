@@ -53,7 +53,7 @@
 Note: the format for these weeks will include graduate student presentations plus moderated discussions on student chosen topics. 
 
 *Week 7, October 21st:* Workshop #1 (Topic: Collaborative Software Engineering, Moderated by Peggy Storey)
-  * Blog post due: October 23rd (Readings will be posted shortly)
+  * Blog post due: October 23rd (Optional readings will be posted shortly)
 
 *Week 8, October 28th:* Workshop #2 
   * Topic: Role of robots in CSCW
@@ -79,7 +79,7 @@ Note: the format for these weeks will include graduate student presentations plu
   * Undergrad helpers: @sarah_warnock
   * Blog post and comments due: November 27th
 
-*Week 13, December 3rd:* Project Presentations in-class
-  * Project final reports are due Dec 5th. 
+*Week 13, December 3nf:* Project Presentations in-class
+  * Project final reports are due by Dec 5th. 
 
 
