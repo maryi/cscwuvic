@@ -53,7 +53,12 @@
 Note: the format for these weeks will include graduate student presentations plus moderated discussions on student chosen topics. 
 
 *Week 7, October 21st:* Workshop #1 (Topic: Collaborative Software Engineering, Moderated by Peggy Storey)
-  * Blog post due: October 23rd (Optional readings will be posted shortly)
+  * Blog post due: October 23rd
+  * [Agenda](software-workshop.md)
+  * Optional readings: 
+     * [How do commercial software projects use GitHub? by Eirini Kalliamvakou et al.] (http://thesegalgroup.org/wp-content/uploads/2015/02/icse-camera.pdf)
+     * On Slack and Bots: http://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/ (this was an optional reading earlier in the course so you may have already read it!)
+     * [How software developers use Twitter by Leif Singer et al.] (http://blog.leif.me/2013/11/how-software-developers-use-twitter/)
 
 *Week 8, October 28th:* Workshop #2 
   * Topic: Role of robots in CSCW
