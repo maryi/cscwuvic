@@ -84,7 +84,7 @@ Note: the format for these weeks will include graduate student presentations plu
   * Undergrad helpers: @sarah_warnock
   * Blog post and comments due: November 27th
 
-*Week 13, December 3nf:* Project Presentations in-class
+*Week 13, December 2nd:* Project Presentations in-class
   * Project final reports are due by Dec 5th. 
 
 
