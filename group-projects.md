@@ -1,7 +1,7 @@
 ## Group project links and descriptions:
 
    * [High Fivers](https://github.com/areyeslo/CSCW_Project): Extending StackOverflow Gamification using Social Media
-   * [legim](https://github.com/KRollans/LegIM): Research of Messengers
+   * [LegIM](https://github.com/KRollans/LegIM): Research of Messengers
    * [MatchMakerApp](https://github.com/maryi/CSCW-Project/): Matchmaker Application
    * [Maverick](https://github.com/cscw2015/maverick): Analyzing and Modernizing Victoria City Council's Communications
    * [Piretes](https://github.com/mcphailio/CSC485A-Project): Dropbox: An Evaluation and Software Redesign
