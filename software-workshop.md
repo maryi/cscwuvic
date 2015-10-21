@@ -8,6 +8,7 @@
 * 2:45-3:00  Break, mingle
 * 3:00-3:30  Eirini Kalliamvakou, PhD Student, UVic, "How do commercial software projects use GitHub?"
 * 3:30-4:00  Bin Li,  Msc Student, Eindhoven University of Technology, "Sharpen your weapon: The practice of using slack as a collaboration tool for software development”
-* 4:00-4:20  Peggy Storey, UVic, "How developers stay up to date using Twitter"
+* 4:00-4:10  Peggy Storey, UVic, "How developers stay up to date using Twitter"  (brief overview)
+* 4:10-4:20  All, discussion of takeaways. 
 
 Note:  Remember you need to write a blog post after the lecture on the presentations and/or optional readings (due on Friday).  Take notes during the workshop.  Contribute to Slack. 
