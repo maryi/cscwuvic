@@ -9,14 +9,16 @@
 
 ### 1:50 - 2:10 | Telepresence Robots: Applications and Issues in Higher Education
 #### Presented by @mpaskevi
-Optional Readings (available in *workshop_week2* Slack channel):
+Optional Readings:
 
 * Realigning Higher Education for the 21st-Century Learner
-through Multi-Access Learning
-* Telepresence Robots for Academics
+through Multi-Access Learning - Available in Slack Channel (workshop_week2)
+* [Telepresence Robots for Academics] (http://lg5jh7pa3n.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info:sid/summon.serialssolutions.com&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Telepresence+robots+for+academics&rft.jtitle=Proceedings+of+the+American+Society+for+Information+Science+and+Technology&rft.au=Herring%2C+Susan+C&rft.date=2013&rft.issn=1550-8390&rft.volume=50&rft.issue=1&rft.spage=1&rft.epage=4&rft_id=info:doi/10.1002%2Fmeet.14505001156&rft.externalDBID=n%2Fa&rft.externalDocID=10_1002_meet_14505001156&paramdict=en-US)
 
 ### 2:10 - 2:30 | Classifying Human-Robot Interaction
 #### Presented by @shashank05april
+Optional Reading:
+* [http://www.researchgate.net/profile/Jill_Drury/publication/220755236_Classifying_human-robot_interaction_An_updated_taxonomy/links/0c9605229dde7b60e0000000.pdf](http://www.researchgate.net/profile/Jill_Drury/publication/220755236_Classifying_human-robot_interaction_An_updated_taxonomy/links/0c9605229dde7b60e0000000.pdf)
 
 ### 2:30 - 2:50 | Making Interactive Robotic Music
 #### Presented by @sabjorn
