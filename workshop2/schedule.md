@@ -18,7 +18,8 @@ through Multi-Access Learning - Available in Slack Channel (workshop_week2)
 ### 2:10 - 2:30 | Classifying Human-Robot Interaction
 #### Presented by @shashank05april
 Optional Reading:
-* [http://www.researchgate.net/profile/Jill_Drury/publication/220755236_Classifying_human-robot_interaction_An_updated_taxonomy/links/0c9605229dde7b60e0000000.pdf](http://www.researchgate.net/profile/Jill_Drury/publication/220755236_Classifying_human-robot_interaction_An_updated_taxonomy/links/0c9605229dde7b60e0000000.pdf)
+* [Classifying Human-Robot Interaction:
+An Updated Taxonomy](http://www.researchgate.net/profile/Jill_Drury/publication/220755236_Classifying_human-robot_interaction_An_updated_taxonomy/links/0c9605229dde7b60e0000000.pdf)
 
 ### 2:30 - 2:50 | Making Interactive Robotic Music
 #### Presented by @sabjorn
