@@ -61,7 +61,7 @@ Note: the format for these weeks will include graduate student presentations plu
      * [How software developers use Twitter by Leif Singer et al.] (http://blog.leif.me/2013/11/how-software-developers-use-twitter/)
 
 *Week 8, October 28th:* Workshop #2 
-  * Topic: Role of robots in CSCW
+  * Topic: [Role of robots in CSCW](workshop2/schedule.md)
   * Grad leaders: @sabjorn @mpaskevi @adithyar @shashank05april
   * Undergrad helpers: @nigeldufty @emilypereira 
   * Blog post due: October 30th
