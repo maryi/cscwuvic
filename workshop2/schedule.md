@@ -28,6 +28,6 @@ through Multi-Access Learning
 ### 3:10 - 4:00 | The Future of Human-Robotic Relationships
 #### Moderated by @nigeldufty @emilypereira
 
-## Part 3: Administriva
+## Part 3: Administrivia
 ### 4:00 - 4:20
 #### Presented by @margaretstorey
