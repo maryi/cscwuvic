@@ -6,6 +6,8 @@
 ## Part 1: Presentations
 ### 1:30 - 1:50 | Android As a Telecommunication Medium with a Human-Like Presence'
 #### Presented by @adithyar
+Optional Readings:
+* [Android as a telecommunication medium with a human-like presence](http://delivery.acm.org.ezproxy.library.uvic.ca/10.1145/1230000/1228743/p193-sakamoto.pdf?ip=142.104.240.194&id=1228743&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E0A66EC96EED4A91A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=720324832&CFTOKEN=17059475&__acm__=1445732450_9b87a503b8165445f0bf11157e58b62b)
 
 ### 1:50 - 2:10 | Telepresence Robots: Applications and Issues in Higher Education
 #### Presented by @mpaskevi
