@@ -5,7 +5,7 @@
    * [MatchMakerApp](https://github.com/maryi/CSCW-Project/): Matchmaker Application
    * [Maverick](https://github.com/cscw2015/maverick): Analyzing and Modernizing Victoria City Council's Communications
    * [Ocarina](https://github.com/aliwebir/ocarina_technologies): Story Time with Friends
-   * [Piretes](https://github.com/mcphailio/CSC485A-Project): Dropbox: An Evaluation and Software Redesign
+   * [Pirates](https://github.com/mcphailio/CSC485A-Project): Dropbox: An Evaluation and Software Redesign
    * [Studii](https://github.com/JIMSS/Studii.git): Studii: Collaborative Software for Students
    * [TBD](https://github.com/TBDproject/CSCW): Extending ARIS for Greater Collaborative Potential
    
