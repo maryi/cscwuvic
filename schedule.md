@@ -73,7 +73,7 @@ Note: the format for these weeks will include graduate student presentations plu
   * Interim project reports are due November 13th
  
 *Week 11, November 18th:* Workshop #3  
-  * Topic: Games and CSCW  
+  * Topic: [Games and CSCW](workshop3.md)  
   * Grad leaders: @bernadette_perry @zhuolixiao @roshnij @ngoyal
   * Undergrad helpers: @kush @krollans 
   * Blog post due: November 20th
