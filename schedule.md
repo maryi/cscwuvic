@@ -79,7 +79,7 @@ Note: the format for these weeks will include graduate student presentations plu
   * Blog post due: November 20th
 
 *Week 12, November 25th:* Workshop #4 
-  * Topic: Impact and ethics of Social Media 
+  * Topic: [Impact and ethics of Social Media](workshop4.md) 
   * Grad leaders: @maryi  @arturo @kimberleegk @aliweb
   * Undergrad helpers: @sarah_warnock
   * Blog post and comments due: November 27th
