@@ -23,9 +23,8 @@ As mentioned in class at the beginning of term, the following criteria will be u
    
 Final class presentations (due in class on Dec 2nd): 
    * Present the entire "story" of your project, what you did, why you worked on this (i.e., why it matters), how you evaluated something or discovered or designed something new, which approach (methodology) you used and why, lessons learned, issues you faced, what kind of future work could be done next. 
-   * You will have 10 minutes for your presentation.  Please test out your laptops in advance, as set up time will be included in this 10 minutes. 
-   * You will also have to give feedback to one other team (as we did with the proposals).  Perhaps the members that don't present can be the ones to give the verbal feedback to the other team (but all team members should contribute to this). 
-   * Please listen attentively to all projects, and give additional feedback on Slack. 
+   * You will have 10 minutes for your presentation.  Please test out your laptops in advance. 
+   * We will have discussion for each project, after each presentation and on Slack.  Please listen attentively and contribute!
       
       
 Some hints for the final report:
